@@ -60,7 +60,7 @@ body {
     grid-template-rows: auto auto auto;
     grid-column-gap: 10px;
     grid-row-gap: 10px;
-    padding-right: 200px;
+    
   }
 
 .article img{
