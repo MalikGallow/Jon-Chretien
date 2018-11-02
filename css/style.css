@@ -259,8 +259,8 @@ body {
 
     
     .img_large img{
-        width: 630px;
-        height: 400px;
+        width: 100%;
+        height: 100%;
     }
 
     .img_large {
