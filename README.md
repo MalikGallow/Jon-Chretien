@@ -3,14 +3,14 @@ rebuild responsive website
  
  Description 
   
-  -Rebuilding jon Chretien wbesite
-  -Based on original website design
-  -Used basic folder structure
+    -Rebuilding jon Chretien wbesite
+    -Based on original website design
+    -Used basic folder structure
 
  Technologies used
 
-   -HTML
-   -CSS
+     -HTML
+     -CSS
 
  Tools
 
