@@ -1,5 +1,5 @@
 body {
-   background-color: black;
+   background-color: #101A24;
     color:#ccc;
     font-family: Vollkorn,-apple-system,BlinkMacSystemFont,Georgia,Times New Roman,Times,serif;
     border-top: 13px solid hsla(0,0%,100%,.25);
@@ -221,6 +221,10 @@ body {
        .links_1 {
            font-size: 15px;
            word-spacing: 5px;
+       }
+
+       .stat{
+         margin-right: 94px;
        }
          
        
